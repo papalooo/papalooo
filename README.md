@@ -9,9 +9,7 @@
 
 ***
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=papalooo&show_icons=true)
-<a href="https://github.com/HYEZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=papalooo&hide=prs,issues&count_private=true&show_icons=true&theme=buefy" />
-</a>
+
 <a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papalooo&layout=compact&theme=buefy" />
 </a>
