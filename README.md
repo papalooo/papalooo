@@ -3,14 +3,13 @@
 ## I'm SuHyeok Jang <img src="https://github.com/Johnjihwan/2020_Gsm_Hackathon/blob/master/img/gsm_h1.png" width="120" align="right">
 
 - 🔭 Gwang ju software meister high school / South Korea
-- 🌱 Currently working on "TIL"
 - 💬 Ask me about my repositories on papalooo@naver.com
 - ⚡ Fun fact: Security expert
 
 ***
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=papalooo&show_icons=true)
 
-<a href="https://github.com/HYEZ">
+<a href="https://github.com/papalooo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papalooo&layout=compact&theme=buefy" />
 </a>
 
