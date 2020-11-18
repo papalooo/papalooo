@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Security expert
 
 ***
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 <a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=papalooo&hide=prs,issues&count_private=true&show_icons=true&theme=buefy" />
 </a>
