@@ -1,4 +1,4 @@
-# Hello World! 👏 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpapalooo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hello World! 👏 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpapalooo&count_bg=%238301FF&title_bg=%23353535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## I'm SuHyeok Jang <img src="https://github.com/Johnjihwan/2020_Gsm_Hackathon/blob/master/img/gsm_h1.png" width="120" align="right">
 
